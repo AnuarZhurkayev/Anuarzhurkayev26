@@ -6,7 +6,7 @@ body{
 section{
     min-height: 95vh;
 }
-.hero{
+.h{
     background-color: #074173;
     color: #C5FF95;
     display: flex;
@@ -74,7 +74,7 @@ img{
     position: relative;
     z-index: 3;
 }
-.m50{
+.m{
     margin: 50px;
 }
 .logo{
@@ -101,9 +101,9 @@ nav{
     height: 60px;
     /*position: fixed;*/
 }
-.w100{
+.w1{
     width: 100%;
 }
-.w80{
+.w{
     width: 80%;
 }
