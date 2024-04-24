@@ -89,18 +89,6 @@ img{
     margin: 0 30px;
     color: #0037ff;
 }
-nav{
-    border: 1px solid #ffffff ;
-    margin: 20px 50px;
-    border-radius: 50px;
-    width: calc(100% - 100px);
-    color: #000000;
-    background-color: #ffffff;
-    display: flex;
-    align-items: center;
-    height: 60px;
-    /*position: fixed;*/
-}
 .w1{
     width: 100%;
 }
